@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📚 I'm <b>lisa</b>, I'm a first-year PhD student in Population Health Sciences at the MRC Integrative Epidemiology Unit at the University of Bristol 
+📚 I'm <b>lisa</b>, I'm a 2nd year PhD student in Population Health Sciences at the MRC Integrative Epidemiology Unit at the University of Bristol 
 
 🧬 My project is "Using Human Genetics to Identify Novel Protein Biomarkers for Enhanced Prediction and Early Detection of Cancer" 
 
