@@ -4,7 +4,6 @@
 
 🧬 My project is "Using Human Genetics to Identify Novel Protein Biomarkers for Enhanced Prediction and Early Detection of Cancer" 
 
-💻 I'm new to the field of epidemiology and coding
-
 <i> 🏳️‍🌈 LGBTQ+ in STEM 🔬 </i>
+
 
