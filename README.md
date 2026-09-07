@@ -19,9 +19,7 @@
 </tr><td><b> Packages </b></td></tr>
 
 <td><a href="https://github.com/lisamhobson/circos.triangulate/"><img src="https://github.com/lisamhobson/circos.triangulate/blob/main/images/circos-triangulate-icon.png" align="centre" height="138"/></a>
-</td>
-
-<td><a href="https://github.com/lisamhobson/viridis_viewer/"><img src="https://github.com/lisamhobson/viridis_viewer/man/figures/viewer.png" align="centre" height="138"/></a>
+<a href="https://github.com/lisamhobson/viridis_viewer/"><img src="https://github.com/lisamhobson/viridis_viewer/blob/master/man/figures/viewer.png" align="centre" height="138"/></a>
 </td>
   </table>
     </div>
