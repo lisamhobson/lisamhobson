@@ -18,6 +18,10 @@
 <td rowspan="3"><a href="https://www.youtube.com/shorts/67TlIAcx9xg"><img src="https://img.youtube.com/vi/67TlIAcx9xg/0.jpg" width="800" /></a></td> 
 </tr><td><b> Packages </b></td></tr>
 
-<td><a href="https://github.com/lisamhobson/circos.triangulate/"><img src="https://github.com/lisamhobson/circos.triangulate/blob/main/images/circos-triangulate-icon.png" align="centre" height="138"/></a></td>
+<td><a href="https://github.com/lisamhobson/circos.triangulate/"><img src="https://github.com/lisamhobson/circos.triangulate/blob/main/images/circos-triangulate-icon.png" align="centre" height="138"/></a>
+</td>
+
+<td><a href="https://github.com/lisamhobson/viridis_viewer/"><img src="https://github.com/lisamhobson/viridis_viewer/man/figures/viewer.png" align="centre" height="138"/></a>
+</td>
   </table>
     </div>
